@@ -1,0 +1,8 @@
+{
+  "name": "Biblioteca",
+  "description": "Aplicación web para registrar libros, organizar lecturas pendientes y leídas, con diseño en tonos lila y crema, compatible con PWA y código QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
